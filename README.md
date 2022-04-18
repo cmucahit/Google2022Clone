@@ -6,10 +6,10 @@ Bu repo [Patika.Dev](https://www.patika.dev) Front-End Eğitiminde ödev olarak 
 
 ## Installation
 
-Öncelikle projeyi clonelayın. [Google Clone](https://github.com/dgnarslan/googleClone.git)
+Öncelikle projeyi clonelayın. [Google Clone](https://github.com/cmucahit/Google2022Clone.git)
 
 ```bash
-git clone https://github.com/dgnarslan/googleClone.git
+git clone https://github.com/cmucahit/Google2022Clone.git
 ```
 
 ## Usage
@@ -18,10 +18,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-```linux
-cd kodluyoruzilkrepo
-code .
-```
+
 
 ## Contributing
 
